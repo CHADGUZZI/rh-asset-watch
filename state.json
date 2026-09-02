@@ -1,0 +1,1557 @@
+{
+ "assets": {
+  "AAOI": {
+   "address": "0x521Cf887E6531c6F667b5BC4D896E5d9bfE8EB2E",
+   "chainId": 4663,
+   "isin": "US03823U1025",
+   "multiplier": "1.000000000000000000",
+   "name": "Applied Optoelectronics",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "AAPL": {
+   "address": "0xaF3D76f1834A1d425780943C99Ea8A608f8a93f9",
+   "chainId": 4663,
+   "isin": "US0378331005",
+   "multiplier": "1.000566080061092436",
+   "name": "Apple",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "ABCL": {
+   "address": "0x3139D77Ace0cbAA5bDfD38bD1F1911a794AF0B0e",
+   "chainId": 4663,
+   "isin": "CA00288U1066",
+   "multiplier": "1.000000000000000000",
+   "name": "Abcellera Biologics",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "ADBE": {
+   "address": "0x232B8ed6377BE97813853B0Ac104c4Cda8378d1B",
+   "chainId": 4663,
+   "isin": "US00724F1012",
+   "multiplier": "1.000000000000000000",
+   "name": "Adobe",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "AEHR": {
+   "address": "0x5F604fBA1162193A4388A5DFa56F556f3E133cC2",
+   "chainId": 4663,
+   "isin": "US00760J1088",
+   "multiplier": "1.000000000000000000",
+   "name": "Aehr",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "AEIS": {
+   "address": "0xfAf9cb261B5FCC1f404Bb10CD39C5c6C1974E612",
+   "chainId": 4663,
+   "isin": "US0079731008",
+   "multiplier": "1.000000000000000000",
+   "name": "Advanced Energy",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "ALAB": {
+   "address": "0x748c32c3ca24eDf31ea597Db1F3d330a7a6DA3Dc",
+   "chainId": 4663,
+   "isin": "US04626A1034",
+   "multiplier": "1.000000000000000000",
+   "name": "Astera Labs, Inc.",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "AMAT": {
+   "address": "0x36046893810a7E7fCE501229d57dc3FC8c8716d0",
+   "chainId": 4663,
+   "isin": "US0382221051",
+   "multiplier": "1.000000000000000000",
+   "name": "Applied Materials",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "AMBA": {
+   "address": "0x99D9D8663545151603863C5AcbD6FC3218899009",
+   "chainId": 4663,
+   "isin": "KYG037AX1015",
+   "multiplier": "1.000000000000000000",
+   "name": "Ambarella",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "AMC": {
+   "address": "0x05a3d1Cd21d0C88145E82600E62e7E496e0F222B",
+   "chainId": 4663,
+   "isin": "US00165C3025",
+   "multiplier": "1.000000000000000000",
+   "name": "AMC Entertainment",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "AMD": {
+   "address": "0x86923f96303D656E4aa86D9d42D1e57ad2023fdC",
+   "chainId": 4663,
+   "isin": "US0079031078",
+   "multiplier": "1.000000000000000000",
+   "name": "AMD",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "AMKR": {
+   "address": "0xDd356AA38F40A7b7076755aC854B6FBb1F0D305B",
+   "chainId": 4663,
+   "isin": "US0316521006",
+   "multiplier": "1.000000000000000000",
+   "name": "Amkor Technology",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "AMZN": {
+   "address": "0x12f190a9F9d7D37a250758b26824B97CE941bF54",
+   "chainId": 4663,
+   "isin": "US0231351067",
+   "multiplier": "1.000000000000000000",
+   "name": "Amazon",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "ANET": {
+   "address": "0x28bABD556b60E53663B8615036479a29c2CDd1Bf",
+   "chainId": 4663,
+   "isin": "US0404132054",
+   "multiplier": "1.000000000000000000",
+   "name": "Arista",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "APLD": {
+   "address": "0xb8DBf92F9741c9ac1c32115E78581f23509916FD",
+   "chainId": 4663,
+   "isin": "US0381692070",
+   "multiplier": "1.000000000000000000",
+   "name": "Applied Digital",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "APP": {
+   "address": "0xA249BAF1063Af884807C1E1400AEf7784836917E",
+   "chainId": 4663,
+   "isin": "US03831W1080",
+   "multiplier": "1.000000000000000000",
+   "name": "AppLovin",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "ASML": {
+   "address": "0x47F93d52cBeC7C6D2CfC080e154002370a60dAEA",
+   "chainId": 4663,
+   "isin": "USN070592100",
+   "multiplier": "1.000101323251417769",
+   "name": "ASML Holding NV",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "ASTS": {
+   "address": "0x1AF6446f07eb1d97c546AFC8c9544cBDF3AD5137",
+   "chainId": 4663,
+   "isin": "US00217D1000",
+   "multiplier": "1.000000000000000000",
+   "name": "AST SpaceMobile",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "AUR": {
+   "address": "0x373C06c4f7BDe527D7Dae4BA169E42b55E393CeD",
+   "chainId": 4663,
+   "isin": "US0517741072",
+   "multiplier": "1.000000000000000000",
+   "name": "Aurora Innovation",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "AVAV": {
+   "address": "0xF6290b5e7C26502e2dA514C31509849718EA76A5",
+   "chainId": 4663,
+   "isin": "US0080731088",
+   "multiplier": "1.000000000000000000",
+   "name": "AeroVironment",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "AVGO": {
+   "address": "0x156E175DD063a8cE274C50654eF40e0032b3fbcF",
+   "chainId": 4663,
+   "isin": "US11135F1012",
+   "multiplier": "1.000000000000000000",
+   "name": "Broadcom",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "AXON": {
+   "address": "0xC27dBD474aF5181c5A8777903690D8D262D12648",
+   "chainId": 4663,
+   "isin": "US05464C1018",
+   "multiplier": "1.000000000000000000",
+   "name": "Axon",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "AXTI": {
+   "address": "0x141eEa040c2250eEc0314e336975e81f85f6585e",
+   "chainId": 4663,
+   "isin": "US00246W1036",
+   "multiplier": "1.000000000000000000",
+   "name": "AXT",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "BA": {
+   "address": "0x4D21483a44Bf67a86b77E3dA301411880797D452",
+   "chainId": 4663,
+   "isin": "US0970231058",
+   "multiplier": "1.000000000000000000",
+   "name": "Boeing",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "BABA": {
+   "address": "0xad25Ac6C84D497db898fa1E8387bf6Af3532a1c4",
+   "chainId": 4663,
+   "isin": "US01609W1027",
+   "multiplier": "1.000000000000000000",
+   "name": "Alibaba",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "BB": {
+   "address": "0x48E39E56aCdbA37b09020C0b734A613C9a2f100A",
+   "chainId": 4663,
+   "isin": "CA09228F1036",
+   "multiplier": "1.000000000000000000",
+   "name": "Blackberry",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "BE": {
+   "address": "0x822CC93fFD030293E9842c30BBD678F530701867",
+   "chainId": 4663,
+   "isin": "US0937121079",
+   "multiplier": "1.000000000000000000",
+   "name": "Bloom Energy",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "BND": {
+   "address": "0x2F62fC9fAbb470C690f141c28340eD832bB27020",
+   "chainId": 4663,
+   "isin": "US9219378356",
+   "multiplier": "1.000000000000000000",
+   "name": "Vanguard Total Bond Market ETF",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "BULL": {
+   "address": "0xceF9027c7d6985b85f0BA431125073529A947A68",
+   "chainId": 4663,
+   "isin": "KYG9572D1034",
+   "multiplier": "1.000000000000000000",
+   "name": "Webull",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "CBRS": {
+   "address": "0x5c90450Bbb4273D7b2f17CF6917AEB237A569679",
+   "chainId": 4663,
+   "isin": "US15675D1037",
+   "multiplier": "1.000000000000000000",
+   "name": "Cerebras Systems",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "CCL": {
+   "address": "0x9651342CeA770aE9a2969Ba2A52611523146aef9",
+   "chainId": 4663,
+   "isin": "BMG2004J1036",
+   "multiplier": "1.021486444855206408",
+   "name": "Carnival Corporation",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "CEG": {
+   "address": "0xaE517A2903E68bd929Dfd15be875F8369D53e94a",
+   "chainId": 4663,
+   "isin": "US21037T1097",
+   "multiplier": "1.000000000000000000",
+   "name": "Constellation Energy",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "CELH": {
+   "address": "0x8cF07C5A878945185d327aAa6e33FAa95F95e7bF",
+   "chainId": 4663,
+   "isin": "US15118V2079",
+   "multiplier": "1.000000000000000000",
+   "name": "Celsius",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "CIEN": {
+   "address": "0x44f6D488021f8233B9416294d1FE9b1fEe28382d",
+   "chainId": 4663,
+   "isin": "US1717793095",
+   "multiplier": "1.000000000000000000",
+   "name": "Ciena",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "CLOV": {
+   "address": "0x62200915e7DEab1eC7f79fb246daDbB80eACdDd0",
+   "chainId": 4663,
+   "isin": "US18914F1030",
+   "multiplier": "1.000000000000000000",
+   "name": "Clover Health Investments",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "CLS": {
+   "address": "0xBf449977089c718C004a66C554B26B94ef3Ad4De",
+   "chainId": 4663,
+   "isin": "CA15101Q2071",
+   "multiplier": "1.000000000000000000",
+   "name": "Celestica",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "CLSK": {
+   "address": "0xcBB95BBF36099d34dA091dc6Fa6F49EfA257Cee3",
+   "chainId": 4663,
+   "isin": "US18452B2097",
+   "multiplier": "1.000000000000000000",
+   "name": "CleanSpark",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "COHR": {
+   "address": "0x92F9F459F1a9a5AD266b182BE7Bffd1C6c666894",
+   "chainId": 4663,
+   "isin": "US19247G1076",
+   "multiplier": "1.000000000000000000",
+   "name": "Coherent",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "COIN": {
+   "address": "0x6330D8C3178a418788dF01a47479c0ce7CCF450b",
+   "chainId": 4663,
+   "isin": "US19260Q1076",
+   "multiplier": "1.000000000000000000",
+   "name": "Coinbase",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "COST": {
+   "address": "0x4EA005168D7F09a7A0Ba9D1DEf21a479950E44C2",
+   "chainId": 4663,
+   "isin": "US22160K1051",
+   "multiplier": "1.000612040296259656",
+   "name": "Costco",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "CRCL": {
+   "address": "0xdF0992E440dD0be65BD8439b609d6D4366bf1CB5",
+   "chainId": 4663,
+   "isin": "US1725731079",
+   "multiplier": "1.000000000000000000",
+   "name": "Circle Internet Group",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "CRDO": {
+   "address": "0x4D67253bc223e6b0e104F1084c1fb2b669dDC41b",
+   "chainId": 4663,
+   "isin": "KYG254571055",
+   "multiplier": "1.000000000000000000",
+   "name": "Credo Technology Group",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "CRM": {
+   "address": "0xd95B44124e475743a7589e68F3D74008A5536D44",
+   "chainId": 4663,
+   "isin": "US79466L3024",
+   "multiplier": "1.000000000000000000",
+   "name": "Salesforce",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "CRWD": {
+   "address": "0xea72Ecca2d0f6bFA1394DBBCff85b52CD4233931",
+   "chainId": 4663,
+   "isin": "US22788C1053",
+   "multiplier": "4.000000000000000000",
+   "name": "CrowdStrike Holdings",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "CRWV": {
+   "address": "0x5f10A1C971B69e47e059e1dC91901B59b3fB49C3",
+   "chainId": 4663,
+   "isin": "US21873S1087",
+   "multiplier": "1.000000000000000000",
+   "name": "CoreWeave",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "CSCO": {
+   "address": "0xF543967EEBB6f1917992eF0E68De63ab07a5a0dA",
+   "chainId": 4663,
+   "isin": "US17275R1023",
+   "multiplier": "1.000000000000000000",
+   "name": "Cisco Systems",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "CTSH": {
+   "address": "0x63D5a3b6939a33f1e75d8Bcd85759858239600DB",
+   "chainId": 4663,
+   "isin": "US1924461023",
+   "multiplier": "1.000000000000000000",
+   "name": "Cognizant",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "CVNA": {
+   "address": "0xa4f319104089FE321dc8093C6E707d4fE190A988",
+   "chainId": 4663,
+   "isin": "US1468691027",
+   "multiplier": "1.000000000000000000",
+   "name": "Carvana",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "DDOG": {
+   "address": "0x27c99fBde9D0d2AA4f4Bfb4943f237843DdF6958",
+   "chainId": 4663,
+   "isin": "US23804L1035",
+   "multiplier": "1.000000000000000000",
+   "name": "Datadog",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "DELL": {
+   "address": "0x941AE714EC6D8130c7B75d67160Ca08f1e7d11Dd",
+   "chainId": 4663,
+   "isin": "US24703L2025",
+   "multiplier": "1.000063708620124549",
+   "name": "Dell",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "DJT": {
+   "address": "0x1D11f0496982706C5e14A514D4E79F2e6BdE4516",
+   "chainId": 4663,
+   "isin": "US25400Q1058",
+   "multiplier": "1.000000000000000000",
+   "name": "Trump Media & Technology Group",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "DOCN": {
+   "address": "0xc02f12B9fe9E707079EC0d546f3050d3F6C1F8bD",
+   "chainId": 4663,
+   "isin": "US25402D1028",
+   "multiplier": "1.000000000000000000",
+   "name": "DigitalOcean",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "ELF": {
+   "address": "0x39EC44Bee4F6A116c6F9B8De566848a985C53C60",
+   "chainId": 4663,
+   "isin": "US26856L1035",
+   "multiplier": "1.000000000000000000",
+   "name": "e.l.f. Beauty",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "EWT": {
+   "address": "0x1c690498150252222C275A5CEd69d3A6b1f52D5E",
+   "chainId": 4663,
+   "isin": "US46434G7723",
+   "multiplier": "1.000000000000000000",
+   "name": "iShares MSCI Taiwan Capped ETF",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "EWY": {
+   "address": "0x7f0aBeF0C07280F82c6a08ead09dEd6BAE2C13Fc",
+   "chainId": 4663,
+   "isin": "US4642867729",
+   "multiplier": "1.000000000000000000",
+   "name": "iShares MSCI South Korea fund",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "F": {
+   "address": "0x25C288E6D899b9BC30160965aD9644c67e73bE0C",
+   "chainId": 4663,
+   "isin": "US3453708600",
+   "multiplier": "1.000145502866134027",
+   "name": "Ford Motor",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "FICO": {
+   "address": "0xa48F22A46C0F1C46CA7D111CB6c137c271987180",
+   "chainId": 4663,
+   "isin": "US3032501047",
+   "multiplier": "1.000000000000000000",
+   "name": "Fair Isaac",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "FIG": {
+   "address": "0x41F4267525a8AFf329540eF24fD83d9044758B33",
+   "chainId": 4663,
+   "isin": "US3168411052",
+   "multiplier": "1.000000000000000000",
+   "name": "Figma",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "FISV": {
+   "address": "0x9ECe29A4A2397C0a35fb5fA8EE2b9509130a98cc",
+   "chainId": 4663,
+   "isin": "US3377381088",
+   "multiplier": "1.000000000000000000",
+   "name": "Fiserv",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "FIX": {
+   "address": "0x93Dbb1d2Dc5D63F4abACFF30485273f538Df68Ac",
+   "chainId": 4663,
+   "isin": "US1999081045",
+   "multiplier": "1.000000000000000000",
+   "name": "Comfort Systems",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "FLNC": {
+   "address": "0x282e87451E10fA6679BC7D76C69BE44cD3fC777C",
+   "chainId": 4663,
+   "isin": "US34379V1035",
+   "multiplier": "1.000000000000000000",
+   "name": "Fluence Energy",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "FLY": {
+   "address": "0x03BC731Ffb162cdd7B98D3C6542bFC291126075d",
+   "chainId": 4663,
+   "isin": "US31816X1063",
+   "multiplier": "1.000000000000000000",
+   "name": "Firefly Aerospace Inc.",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "FTNT": {
+   "address": "0x3FB8976980d486084b2eb4a404BD12e72823958f",
+   "chainId": 4663,
+   "isin": "US34959E1091",
+   "multiplier": "1.000000000000000000",
+   "name": "Fortinet",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "FUTU": {
+   "address": "0xeB30663bDFf0622Ef4e4E5cBb4E975F19f33f51D",
+   "chainId": 4663,
+   "isin": "US36118L1061",
+   "multiplier": "1.000000000000000000",
+   "name": "Futu Holdings",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "GE": {
+   "address": "0x63b814DDBd6BF339f25Fed8c36158a008D5B373e",
+   "chainId": 4663,
+   "isin": "US3696043013",
+   "multiplier": "1.000000000000000000",
+   "name": "General Electric",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "GEV": {
+   "address": "0x94B8AAE43A1cCc08Aa64B7D1F29b4D920aF4a0C9",
+   "chainId": 4663,
+   "isin": "US36828A1016",
+   "multiplier": "1.000000000000000000",
+   "name": "GE Vernova",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "GLD": {
+   "address": "0xC9a981FEE1F9DEc688bb123ccDeCc63D0deBFC4e",
+   "chainId": 4663,
+   "isin": "US78463V1070",
+   "multiplier": "1.000000000000000000",
+   "name": "SPDR Gold Trust",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "GLW": {
+   "address": "0x7c04E6A3368F2A1DE3874f0e80d2e0A1a9915da6",
+   "chainId": 4663,
+   "isin": "US2193501051",
+   "multiplier": "1.000000000000000000",
+   "name": "Corning",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "GLXY": {
+   "address": "0x2D427692E928fa156ec22acfaBaFA0447C5805B7",
+   "chainId": 4663,
+   "isin": "US36317J2096",
+   "multiplier": "1.000000000000000000",
+   "name": "Galaxy Digital Inc.",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "GME": {
+   "address": "0x1b0E319c6A659F002271B69dB8A7df2F911c153E",
+   "chainId": 4663,
+   "isin": "US36467W1099",
+   "multiplier": "1.000000000000000000",
+   "name": "GameStop",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "GOOGL": {
+   "address": "0x2e0847E8910a9732eB3fb1bb4b70a580ADAD4FE3",
+   "chainId": 4663,
+   "isin": "US02079K3059",
+   "multiplier": "1.000000000000000000",
+   "name": "Alphabet Class A",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "HII": {
+   "address": "0xEB61c0Ed490A367d4E3631cCf8a74B3bfc7E775D",
+   "chainId": 4663,
+   "isin": "US4464131063",
+   "multiplier": "1.000000000000000000",
+   "name": "Huntington Ingalls",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "HIMS": {
+   "address": "0xCceE82fE024c36fA15E1005edE3E9e4787e23D09",
+   "chainId": 4663,
+   "isin": "US4330001060",
+   "multiplier": "1.000000000000000000",
+   "name": "Hims & Hers Health",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "HPE": {
+   "address": "0x59dd09d4900C2E4B5F75b7c0d4E6796fcc234Cb1",
+   "chainId": 4663,
+   "isin": "US42824C1099",
+   "multiplier": "1.000000000000000000",
+   "name": "HP Enterprise",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "HWM": {
+   "address": "0xAEa445c5F3DB1a462998ccC422A875A361ee5d99",
+   "chainId": 4663,
+   "isin": "US4432011082",
+   "multiplier": "1.000000000000000000",
+   "name": "Howmet Aerospace",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "IBM": {
+   "address": "0x980dcf6766FA79f5Cf0c4AAdb3ab477ff15a9619",
+   "chainId": 4663,
+   "isin": "US4592001014",
+   "multiplier": "1.000000000000000000",
+   "name": "IBM",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "IBRX": {
+   "address": "0x7c148F74ac7445D1F28366b7FcDC6792a9Fcd0Cf",
+   "chainId": 4663,
+   "isin": "US45256X1037",
+   "multiplier": "1.000000000000000000",
+   "name": "ImmunityBio,",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "INDA": {
+   "address": "0xACEF2e09adb47aD6aBeBAD9fF06689E60615C2B6",
+   "chainId": 4663,
+   "isin": "US46429B5984",
+   "multiplier": "1.000000000000000000",
+   "name": "iShares MSCI India ETF",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "INFQ": {
+   "address": "0xB853bC83a753342a4f8320ea680b4B1E84118D21",
+   "chainId": 4663,
+   "isin": "US45676K1034",
+   "multiplier": "1.000000000000000000",
+   "name": "Infleqtion",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "INOD": {
+   "address": "0xf1953DAB6FaD537488d5A022361FfAa8B4c95eC6",
+   "chainId": 4663,
+   "isin": "US4576422053",
+   "multiplier": "1.000000000000000000",
+   "name": "Innodata",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "INTC": {
+   "address": "0xc72b96e0E48ecd4DC75E1e45396e26300BC39681",
+   "chainId": 4663,
+   "isin": "US4581401001",
+   "multiplier": "1.000000000000000000",
+   "name": "Intel",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "INTU": {
+   "address": "0x56d23beE5f41A7120170b0c603Dae30128e460e9",
+   "chainId": 4663,
+   "isin": "US4612021034",
+   "multiplier": "1.000000000000000000",
+   "name": "Intuit",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "IONQ": {
+   "address": "0x558378E000D634A36593E338eBacdd6207640EfE",
+   "chainId": 4663,
+   "isin": "US46222L1089",
+   "multiplier": "1.000000000000000000",
+   "name": "IonQ",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "IREN": {
+   "address": "0xF0AB0c93bE6F41369d302e55db1A96b3c430212D",
+   "chainId": 4663,
+   "isin": "AU0000185993",
+   "multiplier": "1.000000000000000000",
+   "name": "IREN Limited",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "JBL": {
+   "address": "0xEAf2512dFC1bEAc608F8794B3793CD4E02894Aa6",
+   "chainId": 4663,
+   "isin": "US4663131039",
+   "multiplier": "1.000000000000000000",
+   "name": "Jabil Inc.",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "JNJ": {
+   "address": "0x03DfbBE0AC4E7bCDaFd08eD41A400326B77D8c80",
+   "chainId": 4663,
+   "isin": "US4781601046",
+   "multiplier": "1.000000000000000000",
+   "name": "Johnson & Johnson",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "JOBY": {
+   "address": "0xb334C5cE741B80B5B671F47F5C269Cb193fe8E24",
+   "chainId": 4663,
+   "isin": "KYG651631007",
+   "multiplier": "1.000000000000000000",
+   "name": "Joby Aviation",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "KLAC": {
+   "address": "0x96b933C74eCB4A0926b9210cef7b743EF46be2E9",
+   "chainId": 4663,
+   "isin": "US4824801009",
+   "multiplier": "1.000000000000000000",
+   "name": "KLA",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "KSS": {
+   "address": "0x12e3c047bf9AeCAF9dDC98c05C31BFD1dd043993",
+   "chainId": 4663,
+   "isin": "US5002551043",
+   "multiplier": "1.000000000000000000",
+   "name": "Kohls Corporation",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "KTOS": {
+   "address": "0x7FD06a4d81cCfA3F351394E144d5191874C31313",
+   "chainId": 4663,
+   "isin": "US50077B2079",
+   "multiplier": "1.000000000000000000",
+   "name": "Kratos Defense & Security Solutions",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "LHX": {
+   "address": "0x48d60243c66437c6ac3c2495Be94747aEd5Dfe25",
+   "chainId": 4663,
+   "isin": "US5024311095",
+   "multiplier": "1.000000000000000000",
+   "name": "L3Harris",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "LITE": {
+   "address": "0x8eF20885F94e3D9bc7eB3080279188Bd5ED7c08C",
+   "chainId": 4663,
+   "isin": "US55024U1097",
+   "multiplier": "1.000000000000000000",
+   "name": "Lumentum",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "LLY": {
+   "address": "0x8005d266423c7ea827372c9c864491e5786600ea",
+   "chainId": 4663,
+   "isin": "US5324571083",
+   "multiplier": "1.000000000000000000",
+   "name": "Eli Lilly",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "LMT": {
+   "address": "0x329fcACEb9AD6F9580DD5F643fed0646900D043c",
+   "chainId": 4663,
+   "isin": "US5398301094",
+   "multiplier": "1.000000000000000000",
+   "name": "Lockheed",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "LRCX": {
+   "address": "0x57b0030166DB0C31690d1A5aA167e2e26e2C29a4",
+   "chainId": 4663,
+   "isin": "US5128073062",
+   "multiplier": "1.000000000000000000",
+   "name": "Lam Research Corp",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "LULU": {
+   "address": "0x4e62068525Ab11FE768e29dfD00ef909B9803016",
+   "chainId": 4663,
+   "isin": "US5500211090",
+   "multiplier": "1.000000000000000000",
+   "name": "Lululemon",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "LUNR": {
+   "address": "0xa5D4968421bA94814Be3B136b15cf422101aC1a3",
+   "chainId": 4663,
+   "isin": "US46125A1007",
+   "multiplier": "1.000000000000000000",
+   "name": "Intuitive Machines",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "MDB": {
+   "address": "0xDdf2266b79abf0B48898959B0ed6E6adf512be74",
+   "chainId": 4663,
+   "isin": "US60937P1066",
+   "multiplier": "1.000000000000000000",
+   "name": "MongoDB",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "META": {
+   "address": "0xc0D6457C16Cc70d6790Dd43521C899C87ce02f35",
+   "chainId": 4663,
+   "isin": "US30303M1027",
+   "multiplier": "1.000000000000000000",
+   "name": "Meta Platforms",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "MOD": {
+   "address": "0xc6Cbad1016b38B797610c25E1dc7D95988B1f362",
+   "chainId": 4663,
+   "isin": "US6078281002",
+   "multiplier": "1.000000000000000000",
+   "name": "Modine",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "MPWR": {
+   "address": "0x52D50D0280AD1054b43f052bD70a49a212A1b128",
+   "chainId": 4663,
+   "isin": "US6098391054",
+   "multiplier": "1.000000000000000000",
+   "name": "Monolithic Power Systems",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "MRNA": {
+   "address": "0x43B07D15cE533bEc5476d70C22a78a1B2B662155",
+   "chainId": 4663,
+   "isin": "US60770K1079",
+   "multiplier": "1.000000000000000000",
+   "name": "Moderna",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "MRVL": {
+   "address": "0x62fd0668e10D8B72339BE2DCF7643001688ff13B",
+   "chainId": 4663,
+   "isin": "US5738741041",
+   "multiplier": "1.000000000000000000",
+   "name": "Marvell Technology",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "MSFT": {
+   "address": "0xe93237C50D904957Cf27E7B1133b510C669c2e74",
+   "chainId": 4663,
+   "isin": "US5949181045",
+   "multiplier": "1.000000000000000000",
+   "name": "Microsoft",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "MSTR": {
+   "address": "0xec262a75e413fAfD0dF80480274532C79D42da09",
+   "chainId": 4663,
+   "isin": "US5949724083",
+   "multiplier": "1.000000000000000000",
+   "name": "Strategy Inc.",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "MTSI": {
+   "address": "0xC93f4d80e268AB922e871bd169156C3CC41894e6",
+   "chainId": 4663,
+   "isin": "US55405Y1001",
+   "multiplier": "1.000000000000000000",
+   "name": "MACOM",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "MU": {
+   "address": "0xfF080c8ce2E5feadaCa0Da81314Ae59D232d4afD",
+   "chainId": 4663,
+   "isin": "US5951121038",
+   "multiplier": "1.000074823219171086",
+   "name": "Micron Technology",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "MXL": {
+   "address": "0x48961813349333209994750ffA89b3c5C22eC969",
+   "chainId": 4663,
+   "isin": "US57776J1007",
+   "multiplier": "1.000000000000000000",
+   "name": "MaxLinear",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "NAVN": {
+   "address": "0xf7181b63Fdb858558A74ba96BC42732684cd7965",
+   "chainId": 4663,
+   "isin": "US6391931010",
+   "multiplier": "1.000000000000000000",
+   "name": "Navan",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "NBIS": {
+   "address": "0x9D9c6684F596F66a64C030B93A886D51Fd4D7931",
+   "chainId": 4663,
+   "isin": "NL0009805522",
+   "multiplier": "1.000000000000000000",
+   "name": "Nebius Group",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "NET": {
+   "address": "0x116F00968269B7bfbaD4109cE591d6E74c0601d4",
+   "chainId": 4663,
+   "isin": "US18915M1071",
+   "multiplier": "1.000000000000000000",
+   "name": "Cloudflare, Inc. Class A common stock",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "NFLX": {
+   "address": "0xE0444EF8BF4eD74f74FD73686e2ddF4C1c5591E8",
+   "chainId": 4663,
+   "isin": "US64110L1061",
+   "multiplier": "1.000000000000000000",
+   "name": "Netflix",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "NNE": {
+   "address": "0xBEF75684C43c4ea7BD18Dd532a2244674Ee8b926",
+   "chainId": 4663,
+   "isin": "US63010H1086",
+   "multiplier": "1.000000000000000000",
+   "name": "Nano Nuclear Energy",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "NOW": {
+   "address": "0x0C3260aF4B8f13a69c4c2dFb84fD667890CDFa14",
+   "chainId": 4663,
+   "isin": "US81762P1021",
+   "multiplier": "1.000000000000000000",
+   "name": "ServiceNow",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "NU": {
+   "address": "0x408c14038a04f7bD235329E26d2bf569ee20e250",
+   "chainId": 4663,
+   "isin": "KYG6683N1034",
+   "multiplier": "1.000000000000000000",
+   "name": "Nu",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "NVDA": {
+   "address": "0xd0601CE157Db5bdC3162BbaC2a2C8aF5320D9EEC",
+   "chainId": 4663,
+   "isin": "US67066G1040",
+   "multiplier": "1.000000000000000000",
+   "name": "NVIDIA",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "NVTS": {
+   "address": "0xbE6702d7b70315376dC48a3293f24f0982F86386",
+   "chainId": 4663,
+   "isin": "US63942X1063",
+   "multiplier": "1.000000000000000000",
+   "name": "Navitas Semiconductor",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "OKLO": {
+   "address": "0x8B2f88497f15A18E9D4FFa1a8fFB8538399aE774",
+   "chainId": 4663,
+   "isin": "US02156V1098",
+   "multiplier": "1.000000000000000000",
+   "name": "Oklo",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "ON": {
+   "address": "0xbBD09F72b025360FeE5C928053Dca6248d35be54",
+   "chainId": 4663,
+   "isin": "US6821891057",
+   "multiplier": "1.000000000000000000",
+   "name": "ON Semiconductor",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "ONTO": {
+   "address": "0x8ff63eAeEe3fE54Ba450c4F5538064Ec5A893Aef",
+   "chainId": 4663,
+   "isin": "US6833441057",
+   "multiplier": "1.000000000000000000",
+   "name": "Onto Innovation",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "ORCL": {
+   "address": "0xb0992820E760d836549ba69BC7598b4af75dEE03",
+   "chainId": 4663,
+   "isin": "US68389X1054",
+   "multiplier": "1.002210914971013375",
+   "name": "Oracle",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "OUST": {
+   "address": "0x40E7a279850e443f582059ae5dC1c3b6563E6395",
+   "chainId": 4663,
+   "isin": "US68989M2026",
+   "multiplier": "1.000000000000000000",
+   "name": "Ouster",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "P": {
+   "address": "0x1Cdad396DB64BDa184d5182A97Dd9B3C62100b7D",
+   "chainId": 4663,
+   "isin": "US74624M1027",
+   "multiplier": "1.000000000000000000",
+   "name": "Everpure",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "PANW": {
+   "address": "0xB039597eD45CBa7B6E2fb9E8BE51802969CEe5Be",
+   "chainId": 4663,
+   "isin": "US6974351057",
+   "multiplier": "1.000000000000000000",
+   "name": "Palo Alto Networks",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "PATH": {
+   "address": "0xfb2664f07B6Aadd29ea7a59D8859b1AeB8645cDa",
+   "chainId": 4663,
+   "isin": "US90364P1057",
+   "multiplier": "1.000000000000000000",
+   "name": "UiPath",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "PENG": {
+   "address": "0x9b23573b156B52565012F5cE02CDF60AFBaa70Be",
+   "chainId": 4663,
+   "isin": "US7069151055",
+   "multiplier": "1.000000000000000000",
+   "name": "Penguin Solutions",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "PFE": {
+   "address": "0x7066A64c24e4206CD62E83bf198c1E7EB361F51e",
+   "chainId": 4663,
+   "isin": "US7170811035",
+   "multiplier": "1.000000000000000000",
+   "name": "Pfizer",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "PL": {
+   "address": "0xAA4d64474c172010aB57719cb9951E6142a100d3",
+   "chainId": 4663,
+   "isin": "US72703X1063",
+   "multiplier": "1.000000000000000000",
+   "name": "Planet Labs",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "PLTR": {
+   "address": "0x894E1EC2D74FFE5AEF8Dc8A9e84686acCB964F2A",
+   "chainId": 4663,
+   "isin": "US69608A1088",
+   "multiplier": "1.000000000000000000",
+   "name": "Palantir Technologies",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "POET": {
+   "address": "0xcf6B2D875361be807EAfa57458c80f28521F9333",
+   "chainId": 4663,
+   "isin": "CA73044W3021",
+   "multiplier": "1.000000000000000000",
+   "name": "POET Technologies",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "POWL": {
+   "address": "0x237c16D66590F67B886d978ACD362EAeaD8B18c7",
+   "chainId": 4663,
+   "isin": "US7391281067",
+   "multiplier": "1.000000000000000000",
+   "name": "Powell Industries",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "PR": {
+   "address": "0x4189F0c66EBBB0bfeF1C31f763131361EF32f77C",
+   "chainId": 4663,
+   "isin": "US71424F1057",
+   "multiplier": "1.000000000000000000",
+   "name": "Permian Resources",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "PWR": {
+   "address": "0x9Ab02Ead789b6903c3c44d0ED32F9c707CDF12FD",
+   "chainId": 4663,
+   "isin": "US74762E1029",
+   "multiplier": "1.000000000000000000",
+   "name": "Quanta",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "QBTS": {
+   "address": "0xC583c60aeF9Dc401Da72cEC1B404743a93cea1Cc",
+   "chainId": 4663,
+   "isin": "US26740W1099",
+   "multiplier": "1.000000000000000000",
+   "name": "D-Wave Quantum Inc. Common Stock",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "QCOM": {
+   "address": "0x0f17206447090e464C277571124dD2688E48AEA9",
+   "chainId": 4663,
+   "isin": "US7475251036",
+   "multiplier": "1.000000000000000000",
+   "name": "Qualcomm",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "QQQ": {
+   "address": "0xD5f3879160bc7c32ebb4dC785F8a4F505888de68",
+   "chainId": 4663,
+   "isin": "US46090E1038",
+   "multiplier": "1.000000000000000000",
+   "name": "Invesco QQQ",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "QUBT": {
+   "address": "0x59818904ab4cE163b3cE4FfB64f2D6Ca02c434B4",
+   "chainId": 4663,
+   "isin": "US74766W1080",
+   "multiplier": "1.000000000000000000",
+   "name": "Quantum Computing",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "RBLX": {
+   "address": "0xF0C4BF4C582cb3836e98394b1d4e7B7281101bE8",
+   "chainId": 4663,
+   "isin": "US7710491033",
+   "multiplier": "1.000000000000000000",
+   "name": "Roblox",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "RCAT": {
+   "address": "0xFDE6b5d9BB419B10C23268c74e369AbFF39C0460",
+   "chainId": 4663,
+   "isin": "US75644T1007",
+   "multiplier": "1.000000000000000000",
+   "name": "Red Cat",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "RDDT": {
+   "address": "0x05b37Fb53A299a1b874A619e1c4C404D52C36F4C",
+   "chainId": 4663,
+   "isin": "US75734B1008",
+   "multiplier": "1.000000000000000000",
+   "name": "Reddit",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "RDW": {
+   "address": "0x92Ef19E82bD8fF36661DE838D5eaE7e5CEF0EfFE",
+   "chainId": 4663,
+   "isin": "US75776W1036",
+   "multiplier": "1.000000000000000000",
+   "name": "Redwire",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "RGTI": {
+   "address": "0x284358abc07F9359f19f4b5b4aC91901Be2597Ba",
+   "chainId": 4663,
+   "isin": "US76655K1034",
+   "multiplier": "1.000000000000000000",
+   "name": "Rigetti Computing",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "RIVN": {
+   "address": "0xB1BF26c1D20ff267A4f93550d1E0d06ac40a114B",
+   "chainId": 4663,
+   "isin": "US76954A1034",
+   "multiplier": "1.000000000000000000",
+   "name": "Rivian Automotive",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "RKLB": {
+   "address": "0x3b14C39E89D60D627b42a1A4CA45b5bb45Fc12e2",
+   "chainId": 4663,
+   "isin": "US7731211089",
+   "multiplier": "1.000000000000000000",
+   "name": "Rocket Lab Corporation",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "RUN": {
+   "address": "0x756Bc80af765C82da966a788858d65aDF14f3793",
+   "chainId": 4663,
+   "isin": "US86771W1053",
+   "multiplier": "1.000000000000000000",
+   "name": "Sunrun",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "SATS": {
+   "address": "0x95052ddcd5DC25641657424A8Cf04834997E1730",
+   "chainId": 4663,
+   "isin": "US2787681061",
+   "multiplier": "1.000000000000000000",
+   "name": "EchoStar",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "SCHD": {
+   "address": "0xd63ABB2C13d7a8421a8017a712802053568e3C1D",
+   "chainId": 4663,
+   "isin": "US8085247976",
+   "multiplier": "1.000000000000000000",
+   "name": "Schwab US Dividend Equity ETF",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "SGOV": {
+   "address": "0x92FD66527192E3e61d4DDd13322Aa222DE86F9B5",
+   "chainId": 4663,
+   "isin": "US46436E7186",
+   "multiplier": "1.005101770003214918",
+   "name": "iShares 0-3 Month Treasury Bond",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "SHOP": {
+   "address": "0xF53F66751B1Eff985311b693531E3290F600c410",
+   "chainId": 4663,
+   "isin": "CA82509L1076",
+   "multiplier": "1.000000000000000000",
+   "name": "Shopify",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "SHY": {
+   "address": "0xBE274710Bf3d9567e1B290eF6a5F9f90ca016FD8",
+   "chainId": 4663,
+   "isin": "US4642874576",
+   "multiplier": "1.000000000000000000",
+   "name": "iShares 1-3 Year Treasury Bond ETF",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "SIMO": {
+   "address": "0x77E655E37F4d913fB9540e0d541D824171a60e81",
+   "chainId": 4663,
+   "isin": "US82706C1080",
+   "multiplier": "1.000000000000000000",
+   "name": "Silicon Motion",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "SKHY": {
+   "address": "0x84CAb63bc87912E71ad199ff14A0bA45de68FeF8",
+   "chainId": 4663,
+   "isin": "US78392B2060",
+   "multiplier": "1.000000000000000000",
+   "name": "SK hynix Inc. American Depositary Shares",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "SLS": {
+   "address": "0x285b231728c7E4333799183DF1094d775246a535",
+   "chainId": 4663,
+   "isin": "US81642T2096",
+   "multiplier": "1.000000000000000000",
+   "name": "SELLAS Life Sciences",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "SLV": {
+   "address": "0x411eFb0E7f985935DAec3D4C3ebaEa0d0AD7D89f",
+   "chainId": 4663,
+   "isin": "US46428Q1094",
+   "multiplier": "1.000000000000000000",
+   "name": "iShares Silver Trust",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "SMCI": {
+   "address": "0xc01aA1fECeC0605b13bc84874ff7256C0f5F562a",
+   "chainId": 4663,
+   "isin": "US86800U3023",
+   "multiplier": "1.000000000000000000",
+   "name": "Super Micro Computer",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "SMH": {
+   "address": "0x072f979c2CAc8e1391B0162a87Fee094bF8744a0",
+   "chainId": 4663,
+   "isin": "US92189F6768",
+   "multiplier": "1.000000000000000000",
+   "name": "VanEck Semiconductor ETF",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "SMR": {
+   "address": "0x1Eebee7F74517e0279dFb09d25B0407bEEc3FDd6",
+   "chainId": 4663,
+   "isin": "US67079K1007",
+   "multiplier": "1.000000000000000000",
+   "name": "NuScale Power",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "SNAP": {
+   "address": "0xF6589F11Bc40b669e584073F428B05562F568733",
+   "chainId": 4663,
+   "isin": "US83304A1060",
+   "multiplier": "1.000000000000000000",
+   "name": "Snap",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "SNDK": {
+   "address": "0xB90A19fF0Af67f7779afF50A882A9CfF42446400",
+   "chainId": 4663,
+   "isin": "US80004C2008",
+   "multiplier": "1.000000000000000000",
+   "name": "Sandisk Corporation",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "SNOW": {
+   "address": "0xBa0CAB75495255d0cB58E22B648bFED4ECD1F47E",
+   "chainId": 4663,
+   "isin": "US8334451098",
+   "multiplier": "1.000000000000000000",
+   "name": "Snowflake",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "SOFI": {
+   "address": "0x98E75885157C80992A8D41b696D8c9C6Fb30A926",
+   "chainId": 4663,
+   "isin": "US83406F1021",
+   "multiplier": "1.000000000000000000",
+   "name": "SoFi Technologies",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "SOUN": {
+   "address": "0x6E3Dfd9f7e1649BaA14D25cac18C94d62dB10A54",
+   "chainId": 4663,
+   "isin": "US8361001071",
+   "multiplier": "1.000000000000000000",
+   "name": "SoundHound AI",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "SOXX": {
+   "address": "0x75742c18BC1f1C5c5f448f4C9D9C6F66dafAAa38",
+   "chainId": 4663,
+   "isin": "US4642875235",
+   "multiplier": "1.000000000000000000",
+   "name": "iShares Semiconductor ETF",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "SPCX": {
+   "address": "0x4a0E65A3EcceC6dBe60AE065F2e7bb85Fae35eEa",
+   "chainId": 4663,
+   "isin": "US84615Q1031",
+   "multiplier": "1.000000000000000000",
+   "name": "Space Exploration Technologies Corp. Class A Common Stock",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "SPMO": {
+   "address": "0xAd622320e520de39e72d41EF07438C3Fd3354875",
+   "chainId": 4663,
+   "isin": "US46138E3392",
+   "multiplier": "1.000000000000000000",
+   "name": "Invesco S&P 500 Momentum ETF",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "SPY": {
+   "address": "0x117cc2133c37B721F49dE2A7a74833232B3B4C0C",
+   "chainId": 4663,
+   "isin": "US78462F1030",
+   "multiplier": "1.000000000000000000",
+   "name": "SPDR S&P 500 ETF Trust",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "TE": {
+   "address": "0xb1969f6604CA1AE7a2cD3F1827876e914594CA2D",
+   "chainId": 4663,
+   "isin": "US35834F1049",
+   "multiplier": "1.000000000000000000",
+   "name": "T1 Energy",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "TEAM": {
+   "address": "0x5B97476b922F3305131B8f0B9D333172E87f4aaE",
+   "chainId": 4663,
+   "isin": "US0494681010",
+   "multiplier": "1.000000000000000000",
+   "name": "Atlassian Corporation",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "TEM": {
+   "address": "0xB1CC0EC7Db69Cf43539119814df40071b9d61793",
+   "chainId": 4663,
+   "isin": "US88023B1035",
+   "multiplier": "1.000000000000000000",
+   "name": "Tempus AI",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "TER": {
+   "address": "0x2778C5024D5cA2CdB0f8eAD671ffc69963AdCD9C",
+   "chainId": 4663,
+   "isin": "US8807701029",
+   "multiplier": "1.000000000000000000",
+   "name": "Teradyne",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "TSEM": {
+   "address": "0x89776d4Cd68193597A2fC132cfaC1fDe36CCeA8a",
+   "chainId": 4663,
+   "isin": "IL0010823792",
+   "multiplier": "1.000000000000000000",
+   "name": "Tower Semiconductor",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "TSLA": {
+   "address": "0x322F0929c4625eD5bAd873c95208D54E1c003b2d",
+   "chainId": 4663,
+   "isin": "US88160R1014",
+   "multiplier": "1.000000000000000000",
+   "name": "Tesla",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "TSM": {
+   "address": "0x58FfE4a942d3885bAa22D7520691F611EF09e7AA",
+   "chainId": 4663,
+   "isin": "US8740391003",
+   "multiplier": "1.000000000000000000",
+   "name": "Taiwan Semiconductor Manufacturing",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "TTD": {
+   "address": "0x0b5fb4031cae9163db10B169Ee72685F0EdC8545",
+   "chainId": 4663,
+   "isin": "US88339J1051",
+   "multiplier": "1.000000000000000000",
+   "name": "Trade Desk",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "TTWO": {
+   "address": "0x5e81213613b6B86EaB4c6c50d718d34359459786",
+   "chainId": 4663,
+   "isin": "US8740541094",
+   "multiplier": "1.000000000000000000",
+   "name": "Take-Two Interactive Software",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "UMC": {
+   "address": "0x0E6e67Ba88e7b5d9B67636A215c76779B948dE79",
+   "chainId": 4663,
+   "isin": "US9108734057",
+   "multiplier": "1.000000000000000000",
+   "name": "United Microelectronics",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "UNH": {
+   "address": "0xcF364ea52787e289De6F32077834056E3E70D6A8",
+   "chainId": 4663,
+   "isin": "US91324P1021",
+   "multiplier": "1.000000000000000000",
+   "name": "UnitedHealth",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "UPS": {
+   "address": "0xf23250dac154D05Bb671CB0d0eBEf3c635c79CE2",
+   "chainId": 4663,
+   "isin": "US9113121068",
+   "multiplier": "1.000000000000000000",
+   "name": "UPS",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "USAR": {
+   "address": "0xd917B029C761D264c6A312BBbcDA868658eF86a6",
+   "chainId": 4663,
+   "isin": "US91733P1075",
+   "multiplier": "1.000000000000000000",
+   "name": "USA Rare Earth",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "USO": {
+   "address": "0xa30FA36Db767ad9eD3f7a60fC79526fB4d56D344",
+   "chainId": 4663,
+   "isin": "US91232N2071",
+   "multiplier": "1.000000000000000000",
+   "name": "United States Oil Fund",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "VICR": {
+   "address": "0x6006ed4B2F94110851ff7509D97D034f0EeD9226",
+   "chainId": 4663,
+   "isin": "US9258151029",
+   "multiplier": "1.000000000000000000",
+   "name": "Vicor",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "VRT": {
+   "address": "0xFA78C12E6488814A0262E4e802749a4a737d5fB7",
+   "chainId": 4663,
+   "isin": "US92537N1081",
+   "multiplier": "1.000000000000000000",
+   "name": "Vertiv",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "VSAT": {
+   "address": "0x26dCbfb34FC83CAbD6990f449674efDc6097fF85",
+   "chainId": 4663,
+   "isin": "US92552V1008",
+   "multiplier": "1.000000000000000000",
+   "name": "ViaSat",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "VST": {
+   "address": "0x561e2a49212b7cCF47f2744Ccb83e200722fADBc",
+   "chainId": 4663,
+   "isin": "US92840M1027",
+   "multiplier": "1.000000000000000000",
+   "name": "Vistra",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "VTI": {
+   "address": "0x0594134DF3f171a354D9C85eBD65b7A6148F6D09",
+   "chainId": 4663,
+   "isin": "US9229087690",
+   "multiplier": "1.000000000000000000",
+   "name": "Vanguard Morningstar Total Stock Market ETF",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "WDAY": {
+   "address": "0x82DA4646242e1D962e96e932269Dc644c94a9CaA",
+   "chainId": 4663,
+   "isin": "US98138H1014",
+   "multiplier": "1.000000000000000000",
+   "name": "Workday",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "WDC": {
+   "address": "0xF52597345A8Edf418bc4071b4a35112472277D3e",
+   "chainId": 4663,
+   "isin": "US9581021055",
+   "multiplier": "1.000000000000000000",
+   "name": "Western Digital",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "WULF": {
+   "address": "0x348Be1A8663f15edDe5CDf8A96BB69078f7aB6Fd",
+   "chainId": 4663,
+   "isin": "US88080T1043",
+   "multiplier": "1.000000000000000000",
+   "name": "TeraWulf",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "WYFI": {
+   "address": "0x9e7ABD3C9139D14E4c86DcE0e455AAB7A0C2FB3E",
+   "chainId": 4663,
+   "isin": "KYG961151035",
+   "multiplier": "1.000000000000000000",
+   "name": "WhiteFiber, Inc.",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "XLK": {
+   "address": "0x15Cd20759CE7F3285c29A319dE2D1A2e098c6f43",
+   "chainId": 4663,
+   "isin": "US81369Y8030",
+   "multiplier": "1.000000000000000000",
+   "name": "State Street Technology Select Sector SPDR ETF",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "XNDU": {
+   "address": "0xA8eB3BCcbf2017eE7CBfb652eB51CF2E1B153289",
+   "chainId": 4663,
+   "isin": "CA98390R1029",
+   "multiplier": "1.000000000000000000",
+   "name": "Xanadu Quantum",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "XOM": {
+   "address": "0xf9B46d3D1B22199D4D1025a9cEDB540A33F1a2d5",
+   "chainId": 4663,
+   "isin": "US30233Q1085",
+   "multiplier": "1.000000000000000000",
+   "name": "ExxonMobil Holdings Corporation",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "ZM": {
+   "address": "0x44c4F142009036cF477eD2d09932051843137CF1",
+   "chainId": 4663,
+   "isin": "US98980L1017",
+   "multiplier": "1.000000000000000000",
+   "name": "Zoom",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "ZS": {
+   "address": "0x7dc013eB55e436f30d7ED1AFE4E36d6e45e3c3f7",
+   "chainId": 4663,
+   "isin": "US98980G1022",
+   "multiplier": "1.000000000000000000",
+   "name": "Zscaler",
+   "status": "ASSET_STATUS_ACTIVE"
+  }
+ },
+ "updated": "2026-09-02T23:48:08"
+}

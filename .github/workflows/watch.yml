@@ -1,0 +1,44 @@
+name: Robinhood Chain asset watch
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"   # every 5 minutes (GitHub's minimum; actual delay is often 5-15 min)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: watch
+  cancel-in-progress: false
+
+jobs:
+  poll:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Poll API and alert on changes
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python3 watch.py
+
+      - name: Daily keepalive (GitHub disables schedules after 60 idle days)
+        run: |
+          today=$(date -u +%F)
+          if [ "$(cat LAST_CHECK 2>/dev/null)" != "$today" ]; then echo "$today" > LAST_CHECK; fi
+
+      - name: Commit snapshot if it changed
+        run: |
+          git config user.name "rh-asset-watch bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add state.json LAST_CHECK
+          if ! git diff --cached --quiet; then
+            git commit -m "snapshot: $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git pull --rebase -q origin main || true
+            git push
+          else
+            echo "no snapshot change"
+          fi
