@@ -60,7 +60,7 @@
    "address": "0x36046893810a7E7fCE501229d57dc3FC8c8716d0",
    "chainId": 4663,
    "isin": "US0382221051",
-   "multiplier": "1.000000000000000000",
+   "multiplier": "1.000044656302636618",
    "name": "Applied Materials",
    "status": "ASSET_STATUS_ACTIVE"
   },
@@ -740,7 +740,7 @@
    "address": "0x8005d266423c7ea827372c9c864491e5786600ea",
    "chainId": 4663,
    "isin": "US5324571083",
-   "multiplier": "1.000000000000000000",
+   "multiplier": "1.000002288774375687",
    "name": "Eli Lilly",
    "status": "ASSET_STATUS_ACTIVE"
   },
@@ -828,7 +828,7 @@
    "address": "0xe93237C50D904957Cf27E7B1133b510C669c2e74",
    "chainId": 4663,
    "isin": "US5949181045",
-   "multiplier": "1.000000000000000000",
+   "multiplier": "1.000412952576205964",
    "name": "Microsoft",
    "status": "ASSET_STATUS_ACTIVE"
   },
@@ -1532,7 +1532,7 @@
    "address": "0xf9B46d3D1B22199D4D1025a9cEDB540A33F1a2d5",
    "chainId": 4663,
    "isin": "US30233Q1085",
-   "multiplier": "1.000000000000000000",
+   "multiplier": "1.001039563764661900",
    "name": "ExxonMobil Holdings Corporation",
    "status": "ASSET_STATUS_ACTIVE"
   },
