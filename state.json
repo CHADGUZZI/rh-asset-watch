@@ -1412,7 +1412,7 @@
    "address": "0xcF364ea52787e289De6F32077834056E3E70D6A8",
    "chainId": 4663,
    "isin": "US91324P1021",
-   "multiplier": "1.000000000000000000",
+   "multiplier": "1.004241501039702113",
    "name": "UnitedHealth",
    "status": "ASSET_STATUS_ACTIVE"
   },
@@ -1452,7 +1452,7 @@
    "address": "0xFA78C12E6488814A0262E4e802749a4a737d5fB7",
    "chainId": 4663,
    "isin": "US92537N1081",
-   "multiplier": "1.000000000000000000",
+   "multiplier": "1.000162788892052072",
    "name": "Vertiv",
    "status": "ASSET_STATUS_ACTIVE"
   },
