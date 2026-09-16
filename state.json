@@ -1052,7 +1052,7 @@
    "address": "0x4189F0c66EBBB0bfeF1C31f763131361EF32f77C",
    "chainId": 4663,
    "isin": "US71424F1057",
-   "multiplier": "1.000000000000000000",
+   "multiplier": "1.004477942292229526",
    "name": "Permian Resources",
    "status": "ASSET_STATUS_ACTIVE"
   },
@@ -1300,7 +1300,7 @@
    "address": "0x75742c18BC1f1C5c5f448f4C9D9C6F66dafAAa38",
    "chainId": 4663,
    "isin": "US4642875235",
-   "multiplier": "1.000000000000000000",
+   "multiplier": "1.000450838210425960",
    "name": "iShares Semiconductor ETF",
    "status": "ASSET_STATUS_ACTIVE"
   },
@@ -1380,7 +1380,7 @@
    "address": "0x58FfE4a942d3885bAa22D7520691F611EF09e7AA",
    "chainId": 4663,
    "isin": "US8740391003",
-   "multiplier": "1.000000000000000000",
+   "multiplier": "1.001463024159690554",
    "name": "Taiwan Semiconductor Manufacturing",
    "status": "ASSET_STATUS_ACTIVE"
   },
