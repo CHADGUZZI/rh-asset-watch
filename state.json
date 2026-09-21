@@ -1080,6 +1080,14 @@
    "name": "Qualcomm",
    "status": "ASSET_STATUS_ACTIVE"
   },
+  "QNT": {
+   "address": "0xB7EDfE2F33C1aC06830a971dFb559bDe8A2a3d76",
+   "chainId": 4663,
+   "isin": "US74768A1043",
+   "multiplier": "1.000000000000000000",
+   "name": "Quantinuum Inc. Class A",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
   "QQQ": {
    "address": "0xD5f3879160bc7c32ebb4dC785F8a4F505888de68",
    "chainId": 4663,
