@@ -164,7 +164,7 @@
    "address": "0x156E175DD063a8cE274C50654eF40e0032b3fbcF",
    "chainId": 4663,
    "isin": "US11135F1012",
-   "multiplier": "1.000000000000000000",
+   "multiplier": "1.001257318662278132",
    "name": "Broadcom",
    "status": "ASSET_STATUS_ACTIVE"
   },
@@ -788,7 +788,7 @@
    "address": "0xc0D6457C16Cc70d6790Dd43521C899C87ce02f35",
    "chainId": 4663,
    "isin": "US30303M1027",
-   "multiplier": "1.000000000000000000",
+   "multiplier": "1.000541459879451635",
    "name": "Meta Platforms",
    "status": "ASSET_STATUS_ACTIVE"
   },
@@ -1476,7 +1476,7 @@
    "address": "0x561e2a49212b7cCF47f2744Ccb83e200722fADBc",
    "chainId": 4663,
    "isin": "US92840M1027",
-   "multiplier": "1.000000000000000000",
+   "multiplier": "1.001114738710796417",
    "name": "Vistra",
    "status": "ASSET_STATUS_ACTIVE"
   },
@@ -1524,7 +1524,7 @@
    "address": "0x15Cd20759CE7F3285c29A319dE2D1A2e098c6f43",
    "chainId": 4663,
    "isin": "US81369Y8030",
-   "multiplier": "1.000000000000000000",
+   "multiplier": "1.000804404520428861",
    "name": "State Street Technology Select Sector SPDR ETF",
    "status": "ASSET_STATUS_ACTIVE"
   },
