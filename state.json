@@ -748,7 +748,7 @@
    "address": "0x329fcACEb9AD6F9580DD5F643fed0646900D043c",
    "chainId": 4663,
    "isin": "US5398301094",
-   "multiplier": "1.000000000000000000",
+   "multiplier": "1.000021050802889793",
    "name": "Lockheed",
    "status": "ASSET_STATUS_ACTIVE"
   },
@@ -1364,7 +1364,7 @@
    "address": "0x2778C5024D5cA2CdB0f8eAD671ffc69963AdCD9C",
    "chainId": 4663,
    "isin": "US8807701029",
-   "multiplier": "1.000000000000000000",
+   "multiplier": "1.000647857966979018",
    "name": "Teradyne",
    "status": "ASSET_STATUS_ACTIVE"
   },
