@@ -1484,7 +1484,7 @@
    "address": "0x0594134DF3f171a354D9C85eBD65b7A6148F6D09",
    "chainId": 4663,
    "isin": "US9229087690",
-   "multiplier": "1.000000000000000000",
+   "multiplier": "1.001751012345030813",
    "name": "Vanguard Morningstar Total Stock Market ETF",
    "status": "ASSET_STATUS_ACTIVE"
   },
