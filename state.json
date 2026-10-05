@@ -516,7 +516,7 @@
    "address": "0x63b814DDBd6BF339f25Fed8c36158a008D5B373e",
    "chainId": 4663,
    "isin": "US3696043013",
-   "multiplier": "1.000000000000000000",
+   "multiplier": "1.001049053505552371",
    "name": "General Electric",
    "status": "ASSET_STATUS_ACTIVE"
   },
@@ -1380,7 +1380,7 @@
    "address": "0x58FfE4a942d3885bAa22D7520691F611EF09e7AA",
    "chainId": 4663,
    "isin": "US8740391003",
-   "multiplier": "1.001463024159690554",
+   "multiplier": "1.002728577037771211",
    "name": "Taiwan Semiconductor Manufacturing",
    "status": "ASSET_STATUS_ACTIVE"
   },
