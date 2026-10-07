@@ -1212,7 +1212,7 @@
    "address": "0x84CAb63bc87912E71ad199ff14A0bA45de68FeF8",
    "chainId": 4663,
    "isin": "US78392B2060",
-   "multiplier": "1.000000000000000000",
+   "multiplier": "1.000060353549285624",
    "name": "SK hynix Inc. American Depositary Shares",
    "status": "ASSET_STATUS_ACTIVE"
   },
