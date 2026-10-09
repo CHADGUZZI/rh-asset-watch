@@ -820,7 +820,7 @@
    "address": "0x62fd0668e10D8B72339BE2DCF7643001688ff13B",
    "chainId": 4663,
    "isin": "US5738741041",
-   "multiplier": "1.000000000000000000",
+   "multiplier": "1.000151336736428647",
    "name": "Marvell Technology",
    "status": "ASSET_STATUS_ACTIVE"
   },
@@ -964,7 +964,7 @@
    "address": "0xb0992820E760d836549ba69BC7598b4af75dEE03",
    "chainId": 4663,
    "isin": "US68389X1054",
-   "multiplier": "1.002210914971013375",
+   "multiplier": "1.004762916906792672",
    "name": "Oracle",
    "status": "ASSET_STATUS_ACTIVE"
   },
