@@ -1536,6 +1536,14 @@
    "name": "ExxonMobil Holdings Corporation",
    "status": "ASSET_STATUS_ACTIVE"
   },
+  "ZETA": {
+   "address": "0xE674C5c071821f48BB2d12CAdb83617Eff438f9e",
+   "chainId": 4663,
+   "isin": "US98956A1051",
+   "multiplier": "1.000000000000000000",
+   "name": "Zeta Global",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
   "ZM": {
    "address": "0x44c4F142009036cF477eD2d09932051843137CF1",
    "chainId": 4663,
