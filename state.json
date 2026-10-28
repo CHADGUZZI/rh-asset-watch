@@ -216,6 +216,14 @@
    "name": "Bloom Energy",
    "status": "ASSET_STATUS_ACTIVE"
   },
+  "BMNR": {
+   "address": "0x9a7842EDed60b0FE1e03eEc342C82A397c821eD0",
+   "chainId": 4663,
+   "isin": "US09175A2069",
+   "multiplier": "1.000000000000000000",
+   "name": "BitMine Immersion Technologies",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
   "BND": {
    "address": "0x2F62fC9fAbb470C690f141c28340eD832bB27020",
    "chainId": 4663,
@@ -400,6 +408,14 @@
    "name": "Dell",
    "status": "ASSET_STATUS_ACTIVE"
   },
+  "DIS": {
+   "address": "0x501B1B3B79750313AD2C4CcCD08586c4C17d7283",
+   "chainId": 4663,
+   "isin": "US2546871060",
+   "multiplier": "1.000000000000000000",
+   "name": "Disney",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
   "DJT": {
    "address": "0x1D11f0496982706C5e14A514D4E79F2e6BdE4516",
    "chainId": 4663,
@@ -510,6 +526,14 @@
    "isin": "US36118L1061",
    "multiplier": "1.000000000000000000",
    "name": "Futu Holdings",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "GDX": {
+   "address": "0xBDFa7A06458Aa26b8E736E0fC87aD37C3BB8Ac2e",
+   "chainId": 4663,
+   "isin": "US92189F1066",
+   "multiplier": "1.000000000000000000",
+   "name": "VanEck Gold Miners ETF",
    "status": "ASSET_STATUS_ACTIVE"
   },
   "GE": {
@@ -696,6 +720,14 @@
    "name": "Joby Aviation",
    "status": "ASSET_STATUS_ACTIVE"
   },
+  "JPM": {
+   "address": "0x07c44dA0848960bFf894F17584dB8B2F60B2409E",
+   "chainId": 4663,
+   "isin": "US46625H1005",
+   "multiplier": "1.000000000000000000",
+   "name": "JPMorgan Chase",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
   "KLAC": {
    "address": "0x96b933C74eCB4A0926b9210cef7b743EF46be2E9",
    "chainId": 4663,
@@ -774,6 +806,14 @@
    "isin": "US46125A1007",
    "multiplier": "1.000000000000000000",
    "name": "Intuitive Machines",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "MCD": {
+   "address": "0x2fdaa4604F10F4AE7f66fa48A174bCd25b1ece20",
+   "chainId": 4663,
+   "isin": "US5801351017",
+   "multiplier": "1.000000000000000000",
+   "name": "McDonald's",
    "status": "ASSET_STATUS_ACTIVE"
   },
   "MDB": {
@@ -1062,6 +1102,14 @@
    "isin": "US74762E1029",
    "multiplier": "1.000000000000000000",
    "name": "Quanta",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "PYPL": {
+   "address": "0xa45aBDc77918F7B9199b022eEe400C0BC5712BD2",
+   "chainId": 4663,
+   "isin": "US70450Y1038",
+   "multiplier": "1.000000000000000000",
+   "name": "PayPal",
    "status": "ASSET_STATUS_ACTIVE"
   },
   "QBTS": {
@@ -1400,6 +1448,14 @@
    "name": "Take-Two Interactive Software",
    "status": "ASSET_STATUS_ACTIVE"
   },
+  "UBER": {
+   "address": "0xbd335Aa5A1693F0121A5c0Ef18A080E9958DA78b",
+   "chainId": 4663,
+   "isin": "US90353T1007",
+   "multiplier": "1.000000000000000000",
+   "name": "Uber",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
   "UMC": {
    "address": "0x0E6e67Ba88e7b5d9B67636A215c76779B948dE79",
    "chainId": 4663,
@@ -1438,6 +1494,14 @@
    "isin": "US91232N2071",
    "multiplier": "1.000000000000000000",
    "name": "United States Oil Fund",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "V": {
+   "address": "0x9BFF87700337babF5099e99F322F888DafB1d551",
+   "chainId": 4663,
+   "isin": "US92826C8394",
+   "multiplier": "1.000000000000000000",
+   "name": "Visa",
    "status": "ASSET_STATUS_ACTIVE"
   },
   "VICR": {
