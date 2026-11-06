@@ -252,7 +252,7 @@
    "address": "0x9651342CeA770aE9a2969Ba2A52611523146aef9",
    "chainId": 4663,
    "isin": "BMG2004J1036",
-   "multiplier": "1.021486444855206408",
+   "multiplier": "1.025055519837832948",
    "name": "Carnival Corporation",
    "status": "ASSET_STATUS_ACTIVE"
   },
@@ -620,7 +620,7 @@
    "address": "0xAEa445c5F3DB1a462998ccC422A875A361ee5d99",
    "chainId": 4663,
    "isin": "US4432011082",
-   "multiplier": "1.000000000000000000",
+   "multiplier": "1.000473517252257273",
    "name": "Howmet Aerospace",
    "status": "ASSET_STATUS_ACTIVE"
   },
@@ -1052,7 +1052,7 @@
    "address": "0x7066A64c24e4206CD62E83bf198c1E7EB361F51e",
    "chainId": 4663,
    "isin": "US7170811035",
-   "multiplier": "1.000000000000000000",
+   "multiplier": "1.010110827092460624",
    "name": "Pfizer",
    "status": "ASSET_STATUS_ACTIVE"
   },
