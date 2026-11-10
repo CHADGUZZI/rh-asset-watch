@@ -460,7 +460,7 @@
    "address": "0x25C288E6D899b9BC30160965aD9644c67e73bE0C",
    "chainId": 4663,
    "isin": "US3453708600",
-   "multiplier": "1.000145502866134027",
+   "multiplier": "1.008519908965636470",
    "name": "Ford Motor",
    "status": "ASSET_STATUS_ACTIVE"
   },
@@ -628,7 +628,7 @@
    "address": "0x980dcf6766FA79f5Cf0c4AAdb3ab477ff15a9619",
    "chainId": 4663,
    "isin": "US4592001014",
-   "multiplier": "1.000000000000000000",
+   "multiplier": "1.004738628111767088",
    "name": "IBM",
    "status": "ASSET_STATUS_ACTIVE"
   },
@@ -1500,7 +1500,7 @@
    "address": "0x9BFF87700337babF5099e99F322F888DafB1d551",
    "chainId": 4663,
    "isin": "US92826C8394",
-   "multiplier": "1.000000000000000000",
+   "multiplier": "1.001280316388505401",
    "name": "Visa",
    "status": "ASSET_STATUS_ACTIVE"
   },
