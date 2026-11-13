@@ -564,7 +564,7 @@
    "address": "0x7c04E6A3368F2A1DE3874f0e80d2e0A1a9915da6",
    "chainId": 4663,
    "isin": "US2193501051",
-   "multiplier": "1.000000000000000000",
+   "multiplier": "1.001601972014509993",
    "name": "Corning",
    "status": "ASSET_STATUS_ACTIVE"
   },
@@ -772,7 +772,7 @@
    "address": "0x8005d266423c7ea827372c9c864491e5786600ea",
    "chainId": 4663,
    "isin": "US5324571083",
-   "multiplier": "1.000002288774375687",
+   "multiplier": "1.000839971034982527",
    "name": "Eli Lilly",
    "status": "ASSET_STATUS_ACTIVE"
   },
