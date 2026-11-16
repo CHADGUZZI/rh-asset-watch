@@ -260,7 +260,7 @@
    "address": "0xaE517A2903E68bd929Dfd15be875F8369D53e94a",
    "chainId": 4663,
    "isin": "US21037T1097",
-   "multiplier": "1.000000000000000000",
+   "multiplier": "1.001050143893064654",
    "name": "Constellation Energy",
    "status": "ASSET_STATUS_ACTIVE"
   },
@@ -732,7 +732,7 @@
    "address": "0x96b933C74eCB4A0926b9210cef7b743EF46be2E9",
    "chainId": 4663,
    "isin": "US4824801009",
-   "multiplier": "1.000000000000000000",
+   "multiplier": "1.001026164732234479",
    "name": "KLA",
    "status": "ASSET_STATUS_ACTIVE"
   },
@@ -1476,7 +1476,7 @@
    "address": "0xf23250dac154D05Bb671CB0d0eBEf3c635c79CE2",
    "chainId": 4663,
    "isin": "US9113121068",
-   "multiplier": "1.002208724969205741",
+   "multiplier": "1.012382312939883551",
    "name": "UPS",
    "status": "ASSET_STATUS_ACTIVE"
   },
@@ -1596,7 +1596,7 @@
    "address": "0xf9B46d3D1B22199D4D1025a9cEDB540A33F1a2d5",
    "chainId": 4663,
    "isin": "US30233Q1085",
-   "multiplier": "1.001039563764661900",
+   "multiplier": "1.005385843851125089",
    "name": "ExxonMobil Holdings Corporation",
    "status": "ASSET_STATUS_ACTIVE"
   },
