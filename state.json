@@ -836,7 +836,7 @@
    "address": "0xc6Cbad1016b38B797610c25E1dc7D95988B1f362",
    "chainId": 4663,
    "isin": "US6078281002",
-   "multiplier": "1.000000000000000000",
+   "multiplier": "1.032769854745640387",
    "name": "Modexus Solutions, Inc.",
    "status": "ASSET_STATUS_ACTIVE"
   },
@@ -1084,7 +1084,7 @@
    "address": "0x237c16D66590F67B886d978ACD362EAeaD8B18c7",
    "chainId": 4663,
    "isin": "US7391281067",
-   "multiplier": "1.000000000000000000",
+   "multiplier": "1.000396811938273698",
    "name": "Powell Industries",
    "status": "ASSET_STATUS_ACTIVE"
   },
