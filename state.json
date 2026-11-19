@@ -60,7 +60,7 @@
    "address": "0x36046893810a7E7fCE501229d57dc3FC8c8716d0",
    "chainId": 4663,
    "isin": "US0382221051",
-   "multiplier": "1.000044656302636618",
+   "multiplier": "1.001059374102898949",
    "name": "Applied Materials",
    "status": "ASSET_STATUS_ACTIVE"
   },
@@ -868,7 +868,7 @@
    "address": "0xe93237C50D904957Cf27E7B1133b510C669c2e74",
    "chainId": 4663,
    "isin": "US5949181045",
-   "multiplier": "1.000412952576205964",
+   "multiplier": "1.001737154378546732",
    "name": "Microsoft",
    "status": "ASSET_STATUS_ACTIVE"
   },
