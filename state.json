@@ -112,6 +112,14 @@
    "name": "Arista",
    "status": "ASSET_STATUS_ACTIVE"
   },
+  "ANT": {
+   "address": "0xbbB6c29bCc3a1028A2B54310DF73F4F7A3bcB373",
+   "chainId": 4663,
+   "isin": "US03703U1079",
+   "multiplier": "1.000000000000000000",
+   "name": "Anthropic, PBC Class A Common Stock",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
   "APLD": {
    "address": "0xb8DBf92F9741c9ac1c32115E78581f23509916FD",
    "chainId": 4663,
