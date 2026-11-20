@@ -1324,7 +1324,7 @@
    "address": "0xB90A19fF0Af67f7779afF50A882A9CfF42446400",
    "chainId": 4663,
    "isin": "US80004C2008",
-   "multiplier": "1.000000000000000000",
+   "multiplier": "8.000000000000000000",
    "name": "Sandisk Corporation",
    "status": "ASSET_STATUS_ACTIVE"
   },
@@ -1446,6 +1446,14 @@
    "isin": "US88339J1051",
    "multiplier": "1.000000000000000000",
    "name": "Trade Desk",
+   "status": "ASSET_STATUS_ACTIVE"
+  },
+  "TTEQ": {
+   "address": "0x80E10255A83B257F5A8674D363F547842aa53b8e",
+   "chainId": 4663,
+   "isin": "US87283Q7925",
+   "multiplier": "1.000000000000000000",
+   "name": "T. Rowe Price Exchange-Traded Funds, Inc. T. Rowe Price Technology ETF",
    "status": "ASSET_STATUS_ACTIVE"
   },
   "TTWO": {
